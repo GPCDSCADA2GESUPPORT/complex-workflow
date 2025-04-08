@@ -1,6 +1,6 @@
 nameL complex
 
-on :push
+on: push
 
 jobs:
   ubuntu:
